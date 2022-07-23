@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Github-Movie_website/static/css/main.200d8bf3.css",
+    "main.js": "/Github-Movie_website/static/js/main.f9bbd303.js",
+    "static/js/787.a12cbed7.chunk.js": "/Github-Movie_website/static/js/787.a12cbed7.chunk.js",
+    "static/media/cinema.jpg": "/Github-Movie_website/static/media/cinema.0142d2a441b36861ab51.jpg",
+    "static/media/movie__bg.jpg": "/Github-Movie_website/static/media/movie__bg.8e10cbf0f83a58edec4c.jpg",
+    "static/media/MovieLogo.png": "/Github-Movie_website/static/media/MovieLogo.b084fd035a2213144f90.png",
+    "index.html": "/Github-Movie_website/index.html",
+    "main.200d8bf3.css.map": "/Github-Movie_website/static/css/main.200d8bf3.css.map",
+    "main.f9bbd303.js.map": "/Github-Movie_website/static/js/main.f9bbd303.js.map",
+    "787.a12cbed7.chunk.js.map": "/Github-Movie_website/static/js/787.a12cbed7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.200d8bf3.css",
+    "static/js/main.f9bbd303.js"
+  ]
+}
